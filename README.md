@@ -1,4 +1,3 @@
 # project
-first project
-ura polucholos
+first project ura polucholos
 
